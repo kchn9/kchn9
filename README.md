@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mateusz @kchn9
+- 👀 I’m interested in both front-end and back-end technologies
+- 🌱 I’m currently learning MERN stack!
