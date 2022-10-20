@@ -6,7 +6,7 @@ I'm rookie full-stack developer from Gliwice, 🇵🇱 Poland. Highly motivated 
 
 **<sub> NOW <sub/>**
 
-* ✨  Latest created app: [Phonebook App](https://github.com/kchn9/phonebook-app)
+* ✨  Latest created app: [Phonebook](https://github.com/kchn9/phonebook-app)
 * 🌍  Traveling around the globe
 * 🌱  Learning more about Express and Node
 
@@ -16,4 +16,5 @@ I'm rookie full-stack developer from Gliwice, 🇵🇱 Poland. Highly motivated 
 * 🎯 I'd like to create modern, creative, and user-friendly apps coded with state-of-the-art frameworks, language features, and tools
 * 🌍 Tried almost all common languages like Java, Python, Ruby and so on
 * 🌿 Learning all about Open Source
-* 🧙🏼‍♀️ Fun fact: I'm a huge fan of Harry Potter
+* ⚡️ Enhustiast of blockchain, I even tried to write some contracts on Ethereum network: [Multi-Sig Wallet](https://github.com/kchn9/multi-sig-wallet)
+* 🧙🏼‍♀️ Fun fact: I'm a huge fan of Harry Potter and chess ♛
