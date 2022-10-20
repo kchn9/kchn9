@@ -17,4 +17,4 @@ I'm rookie full-stack developer from Gliwice, 🇵🇱 Poland. Highly motivated 
 * 🌍 Tried almost all common languages like Java, Python, Ruby and so on
 * 🌿 Learning all about Open Source
 * ⚡️ Enhustiast of blockchain, I even tried to write some contracts on Ethereum network: [Multi-Sig Wallet](https://github.com/kchn9/multi-sig-wallet)
-* 🧙🏼‍♀️ Fun fact: I'm a huge fan of Harry Potter and chess ♛
+* 🧙🏼‍♀️ Fun fact: I'm a huge fan of Harry Potter
