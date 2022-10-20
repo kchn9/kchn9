@@ -6,7 +6,7 @@ I'm rookie full-stack developer from Gliwice, 🇵🇱 Poland. Highly motivated 
 
 **<sub> NOW <sub/>**
 
-* ✨  Crafted last Phonebook App
+* ✨  Latest created app: [Phonebook App](https://github.com/kchn9/phonebook-app)
 * 🌍  Traveling around the globe
 * 🌱  Learning more about Express and Node
 
