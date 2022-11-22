@@ -6,9 +6,9 @@ I'm rookie full-stack developer from Gliwice, 🇵🇱 Poland. Highly motivated 
 
 **<sub> NOW <sub/>**
 
-* ✨  Latest created app: [Phonebook](https://github.com/kchn9/phonebook-app)
+* ✨  Latest created app: [Delegated](https://github.com/kchn9/delegated)
 * 🌍  Traveling around the globe and watching tennis 🎾, seriously 😉
-* 🌱  Developing my MERN skills! (most focused on Node and Express now)
+* 🌱  Developing my MERN skills! (most focused on Node and ExpressJS now)
 
 **<sub> BIO <sub/>**
 
