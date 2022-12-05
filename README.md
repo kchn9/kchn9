@@ -2,11 +2,11 @@
 
 ___
 
-I'm rookie full-stack developer from Gliwice, 🇵🇱 Poland. Highly motivated 🚀 and open-minded web-dev practitioner since 2020. 
+I'm rookie full-stack developer (MERN) from Gliwice, 🇵🇱 Poland. Highly motivated 🚀 and open-minded web-dev practitioner since 2020. 
 
 **<sub> NOW <sub/>**
 
-* ✨  Latest created app: [Delegated](https://github.com/kchn9/delegated)
+* ✨  Latest created app: [EverythingBlog](https://github.com/kchn9/nodejs-blog)
 * 🌍  Traveling around the globe and watching tennis 🎾, seriously 😉
 * 🌱  Developing my MERN skills! (most focused on Node and ExpressJS now)
 
