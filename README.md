@@ -6,7 +6,7 @@ I'm rookie full-stack developer (MERN) from Gliwice, 🇵🇱 Poland. Highly mot
 
 **<sub> NOW <sub/>**
 
-* ✨  Latest created app: [EverythingBlog](https://github.com/kchn9/nodejs-blog)
+* ✨  Latest created app: [REST Products API](https://github.com/kchn9/rest-users-products-api)
 * 🌍  Traveling around the globe and watching tennis 🎾, seriously 😉
 * 🌱  Developing my MERN skills! (most focused on Node and ExpressJS now)
 
